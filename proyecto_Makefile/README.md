@@ -2,7 +2,7 @@
 
 **Institución:** ESCOM - IPN  
 **Materia:** Internet de las Cosas / Embedded Systems  
-**Estudiante:** Sanchez De Jesus Arlet Yasmín  
+**Estudiante:** Sanchez De Jesus Arlet Berenice
 
 ## Descripción
 Este proyecto consiste en una herramienta sencilla desarrollada en lenguaje C para el cálculo de áreas de triángulos. El objetivo principal es demostrar el dominio en la creación de **Makefiles desde cero**, configurando un entorno de compilación modular y automatizado en Windows.

@@ -2,7 +2,7 @@
 
 **Institución:** ESCOM - IPN  
 **Materia:** Internet de las Cosas / Embedded Systems  
-**Estudiante:** Sanchez De Jesus Arlet Yasmín  
+**Estudiante:** Sanchez De Jesus Arlet Berenice
 
 ## Descripción
 Este proyecto es una demostración de la potencia de los **Makefiles** para automatizar flujos de trabajo complejos. No solo se encarga de compilar código fuente en C++, sino que también gestiona la ejecución de lógica matemática y la generación de representaciones visuales automáticas.
