@@ -1,0 +1,9 @@
+# Objetos y binarios
+*.o
+julia
+julia.exe
+hola.exe
+
+# Resultados y datos
+*.txt
+*.png
