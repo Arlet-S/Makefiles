@@ -19,7 +19,6 @@ run: all
 	./$(TARGET)
 
 # 6. Regla de limpieza: IMPORTANTE para mantener el repo limpio
-# Usamos 'del' porque estas en Windows
 clean:
 	del /f /q *.o $(TARGET).exe
 
